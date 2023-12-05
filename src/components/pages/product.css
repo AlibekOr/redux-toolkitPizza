@@ -1,0 +1,28 @@
+.cartInner {
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.allPRice {
+    background-color: blue;
+    padding: 10px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.imgse {}
+
+.btnCopy {
+    border: transparent;
+    background-color: transparent;
+}
