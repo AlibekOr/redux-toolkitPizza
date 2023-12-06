@@ -17,49 +17,49 @@ export const PRODUCT = [
     },
     {
         id: 2,
-        name: "Properties",
+        name: "Feta",
         price: 11,
         img: Img2,
         qty: 0
     },
     {
         id: 3,
-        name: "pizza",
+        name: "Mozzerela",
         price: 6,
         img: Img3,
         qty: 0
     },
     {
         id: 4,
-        name: "pizza",
+        name: "Swiss cheese",
         price: 8,
         img: Img4,
         qty: 0
     },
     {
         id: 5,
-        name: "pizza",
+        name: "speice",
         price: 5,
         img: Img5,
         qty: 0
     },
     {
         id: 6,
-        name: "pizza",
+        name: "Vegateables",
         price: 3,
         img: Img6,
         qty: 0
     },
     {
         id: 7,
-        name: "pizza",
+        name: "огурчики",
         price: 7,
         img: Img7,
         qty: 0
     },
     {
         id: 8,
-        name: "pizza",
+        name: "Индейка",
         price: 8,
         img: Img8,
         qty: 0
@@ -70,7 +70,7 @@ export const PRODUCT = [
 export const CART = [
     {
         id: 9,
-        name: "Properties",
+        name: "Colu cutes",
         price: 14,
         img: Img1,
         qty: 1

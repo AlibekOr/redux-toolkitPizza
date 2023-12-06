@@ -3,9 +3,11 @@ import CartPage from './pages/CartPage'
 import ProductPage from './pages/ProductPage'
 const Home = () => {
     return (
-        <div className='containers con'>
-            <CartPage />
-            <ProductPage />
+        <div className='containers '>
+            <div className='con'>
+                <CartPage />
+                <ProductPage />
+            </div>
         </div>
     )
 }

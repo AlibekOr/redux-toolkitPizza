@@ -4,7 +4,7 @@ import Img1 from "../image/1.jpg"
 const initialState = [
     {
         id: 9,
-        name: "Properties",
+        name: "Colu cutes",
         price: 14,
         img: Img1,
         qty: 1
